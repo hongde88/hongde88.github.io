@@ -1,8 +1,8 @@
-# Projects
+# [Projects](#Projects)
 
 ---
 
-### Doodle for Friends
+### [Doodle for Friends](https://github.com/hongde88/doodle_for_friends)
 
 An interactive real-time drawing and guessing web app game for friends inspired by [skribbl](https://skribbl.io/){:target="\_blank" rel="noopener"}.
 
@@ -10,7 +10,7 @@ An interactive real-time drawing and guessing web app game for friends inspired 
 
 ![image](https://user-images.githubusercontent.com/7309086/120910521-9f295680-c64d-11eb-91fa-82ed9a9f4633.png)
 
-### Pointing Poker
+### [Pointing Poker](https://github.com/hongde88/pointing-poker)
 
 A real-time pointing poker web app used for team collaboration.
 
@@ -18,7 +18,7 @@ A real-time pointing poker web app used for team collaboration.
 
 ![image](https://user-images.githubusercontent.com/7309086/120936208-ac3d5880-c6d4-11eb-9b82-4dbbe7397467.png)
 
-### Four Color Card Game
+### [Four Color Card Game](https://github.com/hongde88/four-color-cards-game)
 
 An interactive and real-time [four color card game](https://en.wikipedia.org/wiki/Four_Color_Cards){:target="\_blank" rel="noopener"}.
 
@@ -26,13 +26,13 @@ An interactive and real-time [four color card game](https://en.wikipedia.org/wik
 
 ![image](https://user-images.githubusercontent.com/7309086/120936668-fe7f7900-c6d6-11eb-848e-a7611174dec6.png)
 
-### FireFox Workspace Manager
+### [FireFox Workspace Manager](https://github.com/hongde88/firefox-workspace-manager)
 
 A workspace manager extension for FireFox which could be found [here](https://addons.mozilla.org/en-US/firefox/addon/workspace-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search){:target="\_blank" rel="noopener"}.
 
 ![image](https://raw.githubusercontent.com/hongde88/firefox-workspace-manager/master/screenshots/wsp_icon.png)
 
-### Baby First Words Android App
+### [Baby First Words Android App](#)
 
 An Android app for Babies to learn their first words.
 
@@ -40,19 +40,19 @@ An Android app for Babies to learn their first words.
 
 ---
 
-# About Me
+# [About Me](#About-Me)
 
 My name is Duc Nguyen. I am currently a backend developer at [Medable](https://www.medable.com/){:target="\_blank" rel="noopener"} who enjoys building web and mobile applications in my spare time.
 
 ---
 
-# Contact Me
+# [Contact Me](#Contact-Me)
 
 I could be reached on [LinkedIn](https://www.linkedin.com/in/ducnguyenh){:target="\_blank" rel="noopener"} or at <a href="mailto:hongduc19@gmail.com">Gmail</a>.
 
 ---
 
-# Support Me
+# [Support Me](#Support-Me)
 
 If you like what I build, please support me through Venmo or [PayPal](https://www.paypal.com/paypalme/hongde88){:target="\_blank" rel="noopener"}.
 
