@@ -1,0 +1,16 @@
+title: Duc Nguyen
+logo: /images/logo.png?raw=true
+description: >
+  6+ professional years of Enterprise Software Development.
+  <br/>
+  4+ professional years of NodeJS, NoSQL, and Cloud.
+  <br/>
+  2+ years of self-taught Flutter.
+  <br/><br/>
+  <a href="https://github.com/hongde88" target="_blank">View My GitHub Profile</a
+  <br/><br/>
+  <a href="https://github.com/hongde88" target="_blank">View My GitHub Profile</a>
+
+markdown: kramdown
+
+theme: jekyll-theme-minimal
