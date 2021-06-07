@@ -40,19 +40,19 @@ An Android app for Babies to learn their first words.
 
 ---
 
-# [About Me](#AboutMe)
+# [About Me](#user-content-About-Me)
 
 My name is Duc Nguyen. I am currently a backend developer at [Medable](https://www.medable.com/){:target="\_blank" rel="noopener"} who enjoys building web and mobile applications in my spare time.
 
 ---
 
-# [Contact Me](#ContactMe)
+# [Contact Me](#user-content-Contact-Me)
 
 I could be reached on [LinkedIn](https://www.linkedin.com/in/ducnguyenh){:target="\_blank" rel="noopener"} or at <a href="mailto:hongduc19@gmail.com">Gmail</a>.
 
 ---
 
-# [Support Me](#SupportMe)
+# [Support Me](#user-content-Support-Me)
 
 If you like what I build, please support me through Venmo or [PayPal](https://www.paypal.com/paypalme/hongde88){:target="\_blank" rel="noopener"}.
 
